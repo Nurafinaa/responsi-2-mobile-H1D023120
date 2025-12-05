@@ -1,13 +1,13 @@
 # Responsi 2 Mobile H1D023120
-## Nama : Nurafina Nazwani
-## Shift Baru : D
-## Shift Awal : A
-### dokumentasi Aplikasi : https://drive.google.com/drive/folders/1GhFQjuwssMm2mKaonvg4giLcs9GxpeRj?usp=drive_link
+**Nama : Nurafina Nazwani<br>**
+**Shift Baru : D<br>**
+**Shift Awal : A**
+**dokumentasi Aplikasi : https://drive.google.com/drive/folders/1GhFQjuwssMm2mKaonvg4giLcs9GxpeRj?usp=drive_link**
 
 aplikasi mobile ini adalah aplikasi untuk mengelola inventaris toko, dibuat dengan Flutter dan terhubung ke API backend. Aplikasi ini memungkinkan pengguna untuk melakukan CRUD inventaris, mengelola akun melalui login/registrasi, serta menampilkan data inventaris. dengan penjelasan sebagai berikut:
 
 # API Inventaris Nazwamart
-
+Bagian API Endpoints memberikan daftar rute yang tersedia untuk autentikasi pengguna dan operasi CRUD pada data inventaris. Sedangkan Backend Structure menjelaskan konfigurasi database, model untuk tabel users dan inventaris, serta controller yang menangani logika seperti registrasi, login, dan manajemen data inventaris. Setiap fungsi controller secara singkat dijelaskan alurnya, misalnya validasi input, hashing password, verifikasi login, dan operasi CRUD, sehingga pengembang mudah memahami cara kerja backend API ini.
 ##  API Endpoints
 
 ### Autentikasi
