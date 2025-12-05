@@ -1,0 +1,19 @@
+name: responsi2_mobile_paket2_h1d023120
+description: Nazwamart - Responsi 2 Mobile Paket 2
+publish_to: "none"
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
