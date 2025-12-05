@@ -124,5 +124,3 @@ Bagian API Endpoints memberikan daftar rute yang tersedia untuk autentikasi peng
 - Mengecek status login:
   - Token ada → InventarisPage
   - Token tidak ada → LoginPage
-- SplashScreen loading pertama kali buka aplikasi
-- Konfigurasi tema (Material Design 3, hijau, border radius 16px)
