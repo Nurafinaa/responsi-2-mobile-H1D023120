@@ -1,7 +1,7 @@
 # Responsi 2 Mobile H1D023120
 **Nama : Nurafina Nazwani<br>**
 **Shift Baru : D<br>**
-**Shift Awal : A**
+**Shift Awal : A<br>**
 **dokumentasi Aplikasi : https://drive.google.com/drive/folders/1GhFQjuwssMm2mKaonvg4giLcs9GxpeRj?usp=drive_link**
 
 aplikasi mobile ini adalah aplikasi untuk mengelola inventaris toko, dibuat dengan Flutter dan terhubung ke API backend. Aplikasi ini memungkinkan pengguna untuk melakukan CRUD inventaris, mengelola akun melalui login/registrasi, serta menampilkan data inventaris. dengan penjelasan sebagai berikut:
